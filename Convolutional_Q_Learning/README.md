@@ -34,6 +34,6 @@ Training is assessed by tracking the score per episode, aiming for a consistentl
 
 The DCQL model showcases an advanced application of reinforcement learning, using visual inputs directly to make decisions. This project highlights the potential of convolutional neural networks in understanding and acting in complex, dynamic environments like video games.
 
-#### Here's a video demonstration of Pacman using Convolutional Learning:
+### Here's a video demonstration of Pacman using Convolutional Learning:
 
 ![Video](https://raw.githubusercontent.com/SaiSamarth123/AI-Deep-Learning-Projects/main/Convolutional_Q_Learning/Pacman.gif)
