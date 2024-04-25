@@ -27,21 +27,26 @@ To effectively set up and use the repository after cloning, follow these steps t
 **Create a Virtual Environment:**
 Ensure isolation of package installations by creating a virtual environment:
 
-````bash
+```bash
 python -m venv .venv
+```
 
 **Windows**:
+
 ```bash
   .\.venv\Scripts\activate
+```
 
 **macOS or Linux**:
+
 ```bash
 source .venv/bin/activate
-
+```
 
 **Install required libraries**
+
 ```bash
 pip install pandas tensorflow
 
 
-````
+```
