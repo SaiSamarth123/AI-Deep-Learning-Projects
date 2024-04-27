@@ -47,6 +47,4 @@ source .venv/bin/activate
 
 ```bash
 pip install pandas tensorflow
-
-
 ```
